@@ -473,7 +473,6 @@ $(document).ready(function() {
           }
         }
       }
-
       /**
        * TODO shuffle
        */
@@ -736,24 +735,8 @@ $(document).ready(function() {
   AP.init({
     playList: [{
       'icon': iconImage,
-      'title': 'Hitman',
-      'file': 'http://incompetech.com/music/royalty-free/mp3-royaltyfree/Hitman.mp3'
-    }, {
-      'icon': iconImage,
-      'title': 'Forever Believe',
-      'file': 'https://a.clyp.it/zbh0qeyo.mp3'
-    }, {
-      'icon': iconImage,
-      'title': 'Drifting',
-      'file': 'https://a.clyp.it/bthbgqcs.mp3'
-    }, {
-      'icon': iconImage,
-      'title': 'Clap Along (Lorem ipsum dolor sit amet, consectetur adipisicing.)',
-      'file': 'https://a.clyp.it/lygki3hx.mp3'
-    }, {
-      'icon': iconImage,
-      'title': 'Pop Tune',
-      'file': 'https://a.clyp.it/enddsv44.mp3'
+      'title': 'Rabba',
+      'file': 'https://github.com/audiofiles/mohitpathak/releases/download/2.0/Rabba.Mohit.Pathak.ft.Nidhi.Uttam.Cover.Never.Enough.Latest.Hit.Song.mp3'
     }]
   });
 
